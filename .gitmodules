@@ -1,15 +1,15 @@
 [submodule "dsrc"]
 	path = dsrc
-	url = https://github.com/SWG-Source/dsrc.git
+	url = https://github.com/AstroZero36/dsrc.git
 [submodule "serverdata"]
 	path = serverdata
-	url = https://github.com/SWG-Source/serverdata.git
+	url = https://github.com/AstroZero36/serverdata.git
 [submodule "exe"]
 	path = exe
-	url = https://github.com/SWG-Source/configs.git
+	url = https://github.com/AstroZero36/configs.git
 [submodule "src"]
 	path = src
-	url = https://github.com/SWG-Source/src.git
+	url = https://github.com/AstroZero36/src.git
 [submodule "stationapi"]
 	path = stationapi
-	url = https://github.com/SWG-Source/stationapi.git
+	url = https://github.com/AstroZero36/stationapi.git
