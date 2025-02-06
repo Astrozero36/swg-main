@@ -22,7 +22,7 @@
 	  <sequential>
 	    <git command = "clone">
 	      <args>
-	        <arg value = "@{repository}" />
+	        <arg value="https://github.com/Astrozero36/swg-main.git" />
           <arg line = "-b @{branch}" />
 	        <arg value = "@{dest}" />
 	      </args>
